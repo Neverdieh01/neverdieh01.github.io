@@ -5,10 +5,29 @@
   background-color:#f4f4f4    
  }  
  
- 
+  /* Global */
  .container{
     width:80%;
     margin:auto;
     overflow:hidden;
  } 
  
+ /* Header **/
+ header{
+  background:#35424a
+  color:#ffffff;
+  padding-top:30px;
+  min-height:70px;
+  border-bottom:#e8491d 3px solid;
+ }
+ 
+ header a{
+   color:ffffff;
+   text-decoraion:none;
+   text-transform: uppercase;
+   front-size:16px;
+ } 
+ 
+ header ul{
+   margin:0;
+ }
